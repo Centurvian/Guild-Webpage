@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>TBNL</title>
+<link rel="stylesheet" type="text/css" href="base.css"/>
+<!--  -->
+</head>
+<body>
+<div id="stdBody">
+
+	<div id="stdHeader"></div>
+
+	<div id="stdMenu">
+	<a class="stdMenu" href="index.php">News</a> <span class="stdMenu">&bull;</span> <a class="stdMenu" href="./boards/">Boards</a> <span class="stdMenu">&bull;</span> <a class="stdMenu" href="membership.php">Membership</a> <span class="stdMenu">&bull;</span> <a class="stdMenu" href="about.php">About</a></span>
+	</div>
+
+	<div id="stdContent">
+		<div class="h2">About TBNL</div>
+		<div class="text">
+		<p>With almost 80 years of MMORPG experience between us. We come into SW: TOR wide eyed at the possibilities. We have played or have been involved with in some way or another with over 13 games including UO, Asheron's Call, DAoC, Star Wars Galaxies, World of Warcraft, Guild Wars, Eve, Dungeons and Dragons Online, Lineage II, Pirates of the Burning Sea, Everquest and Everquest 2.
+
+We have always had the foresight to realize that the interest in a good friend will always outlast the interest in a good game. We have simply expanded to more games to accommodate our interests to the point that no matter what game we choose to play, there will always be a friend to accompany them on their adventures.
+
+We are a friendly casual guild that loves to balance the excitement of PVP with the challenge of the PVE. We prefer a more mature player to game with one that holds to the idea that the whole is greater than the part.
+</p>
+		<p>Sign up and be a part of the power struggle that will end in the demise of our enemy's.</p>
+
+
+		</div>
+
+	</div>
+	
+	<div id="stdFooter">
+	<p id="stdFooter">All rights apply.</p>
+	</div>
+
+</div>
+
+</body>
+
+</html>
